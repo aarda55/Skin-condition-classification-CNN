@@ -11,5 +11,6 @@ Detection of skin diseases through Convolutional neural network.
 Use of software:![1200px-Jupyter_logo svg](https://user-images.githubusercontent.com/79632956/215291140-a1d258d6-fec6-4f98-bbbf-2a2988d43cb4.png)
                   Jupyter Notebook
                   
-                 ![download](https://user-images.githubusercontent.com/79632956/215291238-b4947ee0-470a-4c9e-885e-3136df128ff6.jpg)
+               
 
+![download](https://user-images.githubusercontent.com/79632956/215291246-d7f3b97f-36af-4f4c-ada0-09b979fe5729.jpg)
