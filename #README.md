@@ -31,10 +31,6 @@ Is able to detect all 8 skin diseases with 80% accuracy. Can't seperate healthy 
 
 ----------------------------------------------------------------------
 Credit:
-        
--Usage of Dataset:
-        
-        
+Usage of Dataset: Dermnet
 
-
-
+                https://www.kaggle.com/datasets/shubhamgoel27/dermnet?select=test
