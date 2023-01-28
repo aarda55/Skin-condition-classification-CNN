@@ -5,3 +5,5 @@ Objective of Software:
 Detection of skin diseases through Convolutional neural network.
 
 Use of software:![1200px-Jupyter_logo svg](https://user-images.githubusercontent.com/79632956/215291140-a1d258d6-fec6-4f98-bbbf-2a2988d43cb4.png)
+                  Jupyter Notebook
+                
