@@ -26,11 +26,15 @@ Use of software:
 ----------------------------------------------------------------------
 
 End progress of Software:
+
 Is able to detect all 8 skin diseases with 80% accuracy. Can't seperate healthy from sick skin (Should only be used for already supected parts of skin).
 
 ----------------------------------------------------------------------
 
-Use of Dataset:
+Credit:
+        Usage of Dataset:
+        
+        K
 
 
 
