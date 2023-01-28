@@ -2,6 +2,7 @@
 This AI is a prototype Software to predict the existence of skin diseases (Usage at your own risk-Functionality not clinically proven).
 
 Objective of Software:
+
 Detection of skin diseases through Convolutional neural network.
 
 ----------------------------------------------------------------------
