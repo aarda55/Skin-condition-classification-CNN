@@ -39,6 +39,18 @@ End progress of Software:
 
 Is able to detect all 8 skin diseases with 80% accuracy. Can't seperate healthy from sick skin (Should only be used for already supected parts of skin).
 
+------------------------------------------------------------------------
+
+Future plans:
+
+-addition of proper UI with mobile compatibility (preferably in  Dart)
+
+-addition of healthy skin to the dataset
+
+-addition of more skin disease types to the dataset
+
+-further optimization for higher accuracy (at least above 80%)
+
 ----------------------------------------------------------------------
 Credit:
 Usage of Dataset: Dermnet
