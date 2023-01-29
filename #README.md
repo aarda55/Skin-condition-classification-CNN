@@ -9,6 +9,8 @@ Detection of certain skin diseases through a Convolutional neural network. Skin 
 
 -acne and Rosacea
 
+
+
 -skincancer
 
 -Eczema
