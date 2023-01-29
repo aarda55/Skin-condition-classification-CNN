@@ -7,21 +7,27 @@ Objective of Software:
 
 Detection of certain skin diseases through a Convolutional neural network. Skin diseases which are detectable are: 
 
-     -acne and Rosacea
+-acne and Rosacea
 
-     -skincancer
 
-     -Eczema
 
-     -Psoriasis
 
-     -Actinic Keratosis
 
-     -Nail Fungus
 
-     -Tinea Ringworm
+----------------------------------------------------------
+-skincancer
 
-     -Seborrheic Keratoses
+-Eczema
+
+-Psoriasis
+
+-Actinic Keratosis
+
+-Nail Fungus
+
+-Tinea Ringworm
+
+-Seborrheic Keratoses
 
 (Search the terms at your own risk)
 
