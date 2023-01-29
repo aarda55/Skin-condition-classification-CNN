@@ -6,7 +6,8 @@ This AI is a prototype Software to predict the existence of certain skin disease
 Objective of Software:
 
 Detection of certain skin diseases through a Convolutional neural network. Skin diseases which are detectable are: 
--acne and Rosacea
+
+   -acne and Rosacea
 
 -skincancer
 
