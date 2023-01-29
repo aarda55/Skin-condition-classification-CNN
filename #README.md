@@ -9,19 +9,19 @@ Detection of certain skin diseases through a Convolutional neural network. Skin 
 
      -acne and Rosacea
 
--skincancer
+     -skincancer
 
--Eczema
+     -Eczema
 
--Psoriasis
+     -Psoriasis
 
--Actinic Keratosis
+     -Actinic Keratosis
 
--Nail Fungus
+     -Nail Fungus
 
--Tinea Ringworm
+     -Tinea Ringworm
 
--Seborrheic Keratoses
+     -Seborrheic Keratoses
 
 (Search the terms at your own risk)
 
