@@ -42,7 +42,7 @@ for features, label in training_data:
     X.append(features)
     y.append(label)
 
-X = np.array(X).reshape(-1, IMG_SIZE, IMG_SIZE, 1)
+X = np.array(X).reshape(-1, IMG_SIZE, IMG_SIZE, 3)
 
 
 
