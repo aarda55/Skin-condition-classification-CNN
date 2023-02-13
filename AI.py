@@ -62,7 +62,7 @@ X = np.array(X)
 y = np.array(y)
 
 #model is fitted with optimized variables
-model_history = model.fit(X, y, batch_size=4, epochs=100, validation_split=0.3)
+model_history = model.fit(X, y, batch_size=32, epochs=100, validation_split=0.3)
 
 #model is saved for further usage
 model.save('6xn
