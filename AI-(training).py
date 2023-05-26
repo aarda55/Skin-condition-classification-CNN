@@ -1,17 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import os 
-import cv2
-import random
 import pickle
 import tensorflow as tf
-from tensorflow.keras.datasets import cifar10
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, Activation, Flatten
 from tensorflow.keras.layers import Conv2D, MaxPooling2D
-from tensorflow.keras.callbacks import EarlyStopping
-import time
 import pandas as pd
 from keras.optimizers import SGD
 
@@ -65,10 +59,9 @@ y = np.array(y)
 model_history = model.fit(X, y, batch_size=32, epochs=100, validation_split=0.3)
 
 #model is saved for further usage
-model.save('6xn
--CNN.model')
+model.save('6xn-CNN.model')
 
 #model shows all data for developer analysis
 print(model.summary()) 
-pd.DataFrame(model_history.history).plot(figsize=(8,5))
+pd.DataFrame(model_history.history).plot(figsize=(9,6))
 plt.show()
