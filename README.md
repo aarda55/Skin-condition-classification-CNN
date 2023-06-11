@@ -1,5 +1,5 @@
-# Skin-condition-predictor-AI-10.11.2022-
-This AI is a prototype Software to predict the existence of certain skin diseases (Usage at your own risk-Functionality not clinically proven).
+# Skin-condition-classification-AI-10.11.2022-
+This AI is a prototype Software to classify the existence of certain skin diseases (Usage at your own risk - Functionality not clinically proven).
 
 ---------------------------------------------------------------------
 
