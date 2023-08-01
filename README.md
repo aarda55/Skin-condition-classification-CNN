@@ -1,4 +1,4 @@
-# Skin-condition-classification-AI-10.11.2022-
+# Skin-condition-classification-CNN
 This convolutional neural-network is a prototype Software to classify the existence of certain skin diseases (Usage at your own risk - Functionality not clinically proven).
 
 ---------------------------------------------------------------------
