@@ -1,5 +1,5 @@
 # Skin-condition-classification-CNN
-This convolutional neural-network is a prototype Software to classify the existence of certain skin diseases (Usage at your own risk - Functionality not clinically proven).
+This convolutional neural-network is an experimental Software to classify the existence of certain skin diseases (Usage at your own risk - Functionality not clinically proven).
 
 ---------------------------------------------------------------------
 
