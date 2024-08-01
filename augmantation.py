@@ -1,6 +1,6 @@
 import Augmentor
 
-#duplicates data to 50000 samples + original sample size to increase dataset size
+#augments data to 50000 samples + original sample size to increase dataset size and reduce the chance of overfitting
 p = Augmentor.Pipeline(r"Datasets")
 p.zoom(probability=0.3, min_factor=0.8, max_factor=1.5)
 p.flip_top_bottom(probability=0.4)
