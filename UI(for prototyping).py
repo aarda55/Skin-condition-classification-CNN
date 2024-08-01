@@ -49,13 +49,5 @@ while True:
             prediction = model.predict([prepare(values["-FILE-"])])
             print(CATEGORIES[int(prediction[0][0])])
 
-'''def prepare(filepath):
-    IMG_SIZE = 80
-    img_array = cv2.imread(filepath)
-    new_array = cv2.resize(img_array, (IMG_SIZE, IMG_SIZE))
-    return new_array.reshape(-1, IMG_SIZE, IMG_SIZE, 3)
-prediction = model.predict([prepare(values["-FILE-"])])
-print(CATEGORIES[int(prediction[0][0])])'''
-
 
 window.close()
