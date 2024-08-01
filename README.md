@@ -27,7 +27,7 @@ Detection of certain skin diseases through a Convolutional neural network. Skin 
 
 ----------------------------------------------------------------------
 
-# End progress of Project:
+# Result of Project:
 
 Is able to detect all 8 skin diseases with 80% accuracy. Can't seperate healthy from sick skin (Should only be used for already supected parts of skin).
 
@@ -35,17 +35,13 @@ Is able to detect all 8 skin diseases with 80% accuracy. Can't seperate healthy 
 
 # Future plans:
 
--addition of proper UI with mobile compatibility (preferably in  Dart)
-
 -addition of healthy skin to the dataset
 
 -addition of more skin disease types to the dataset
 
--further optimization for higher accuracy (at least above 80%)
-
 ----------------------------------------------------------------------
 # Credit: 
-Usage of Dataset: Dermnet
+Dataset: Dermnet
 
             https://www.kaggle.com/datasets/shubhamgoel27/dermnet?select=test
             
